@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Shachiru Rashmika
+# 👋 Hi, I'm Shachiru Rashmika Wijegunarathne
 
 ### Full-Stack Developer · UI/UX Designer · AI/ML Enthusiast
 
@@ -233,7 +233,20 @@ I'm always open to connecting with developers, designers, recruiters, and people
 
 <div align="center">
 
-**[🌐 Portfolio](https://shachiru-portfolio.netlify.app) · [💼 LinkedIn](https://www.linkedin.com/in/shachirur) · [🐙 GitHub](https://github.com/ShachiruR) · [📧 Email](mailto:shachiru@outlook.com)**
+
+  <a href="https://shachiru-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-7B2CF5?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shachirur">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ShachiruR">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:shachiru@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  </a>
+
 
 <br/>
 
