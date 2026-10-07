@@ -219,9 +219,9 @@ When I'm not coding, you'll probably find me around **cricket**.
 <a href="https://github.com/ShachiruR">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShachiruR&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
 </a>
-<a href="https://github.com/ShachiruR">
+<!-- <a href="https://github.com/ShachiruR">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShachiruR&layout=compact&hide_border=true&theme=transparent" />
-</a>
+</a> -->
 
 </div>
 
