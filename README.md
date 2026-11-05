@@ -1,8 +1,15 @@
 <div align="center">
+<div align="center">
+  <img
+    src="./Linkedin-cover-new.svg"
+    alt="Profile Banner"
+    width="100%"
+    style="border-radius: 20px"
+  />
+</div>
 
-# 👋 Hi, I'm Shachiru Rashmika Wijegunarathne
+<br/>
 
-### Full-Stack Developer · UI/UX Designer · AI/ML Enthusiast
 
 <p>
   <a href="https://shachiru-portfolio.netlify.app">
